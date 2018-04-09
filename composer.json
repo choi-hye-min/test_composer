@@ -13,5 +13,7 @@
             "Yeogi\\Policy\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "nette/caching": "~2.5.8",
+    }
 }
