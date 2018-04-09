@@ -15,5 +15,11 @@
     },
     "require": {
         "clickalicious/memcached.php": "~0.1"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://git.within.co.kr/gogoke1/policy_composer.git"
+        }
+    ]
 }
