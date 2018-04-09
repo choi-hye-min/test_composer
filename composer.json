@@ -1,6 +1,6 @@
 {
     "name": "yeogi/policy",
-    "description": "yeogi policy package!",
+    "description": "yeogi policy package",
     "authors": [
         {
             "name": "Arthur",
@@ -14,6 +14,6 @@
         }
     },
     "require": {
-        "nette/caching": "~2.5.8",
+        "clickalicious/memcached.php": "~0.1"
     }
 }
